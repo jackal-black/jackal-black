@@ -1,6 +1,6 @@
 <!-- 你的名字可以写在这里 -->
 <h1 align="center">Hi 👋, I'm Jackal</h1>
-<h3 align="center">A passionate developer from YOUR COUNTRY</h3>
+<h3 align="center">A passionate developer from China</h3>
 
 - 🔭 I’m currently working on [placeholder link]()
 - 🌱 I’m currently learning **Python, Data anlasis and ,Crawler**
@@ -34,9 +34,6 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </p>
