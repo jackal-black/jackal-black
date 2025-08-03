@@ -1,4 +1,3 @@
-<!-- 你的名字可以写在这里 -->
 <h1 align="center">Hi 👋, I'm Jackal</h1>
 <h3 align="center">A passionate developer from China</h3>
 
@@ -20,17 +19,10 @@
 ### 📈 GitHub Activity Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jackal-black&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🧮 Profile View Counter
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=jackal-black&label=Profile%20views&color=0e75b6&style=flat" alt="jackal-black" />
-</p>
 
 ---
-
+ 
 ### 🧰 Tech Stack
 
 <p align="left">
