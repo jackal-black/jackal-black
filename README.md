@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from China</h3>
 
 - 🔭 I’m currently working on [placeholder link]()
-- 🌱 I’m currently learning **Python, Data anlasis and ,Crawler**
+- 🌱 I’m currently learning **Python, Agent and ,Harness**
 - 📫 How to reach me: **g2987193621@gmail.com**
 
 ---
